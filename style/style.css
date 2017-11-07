@@ -1,0 +1,37 @@
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: grey;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.todo-list-container {
+  margin: 0 auto;
+  background-color: white;
+  width: 50%;
+  padding: 5px;
+}
+
+.under-the-sea {
+  background-image: url("https://i.ytimg.com/vi/_vpaLmarOEs/maxresdefault.jpg");
+}
+
+.forest {
+  background-image: url("https://static.pexels.com/photos/158251/forest-the-sun-morning-tucholskie-158251.jpeg")
+}
+
+.mountains {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg")
+}
+
+.desert {
+  background-image: url("https://img.purch.com/rc/696x392/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAzMC85NzIvb3JpZ2luYWwvc2h1dHRlcnN0b2NrXzkzNDA0Mjg3LmpwZw==")
+}
+
+.volcano {
+  background-image: url("https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict0002990093241.jpg?strip=all&w=960")
+}

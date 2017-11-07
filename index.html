@@ -3,18 +3,22 @@
   <head>
     <meta charset="utf-8">
     <script src="./lib/nQuery.js"></script>
-    <title></title>
+    <title>nQuery</title>
+    <link rel="stylesheet" href="./style/style.css">
   </head>
   <body>
 
-    <div class="first">
-
+    <div class="todo-list-container">
+      <h1>Todo List</h1>
+      <ul id="todo-list">
+      </ul>
     </div>
 
-    <div class="second" name='second'>
-      <p>text</p>
-    </div>
-
-    <button type="button" class="my-button">Click me</button>
+    <input type="text" id="new-todo" placeholder="Todo">
+    <button type="button" id="add-button">Add Todo</button>
+    <button type="button" id="empty-button">Remove All Todos</button>
+    <button type="button" id="jacket-button">Do I Need A Jacket?</button>
+    <button type="button" id="background-button">Change Background</button>
   </body>
+
 </html>
