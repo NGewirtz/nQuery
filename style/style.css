@@ -39,13 +39,13 @@ button, input {
 }
 
 button {
-  background-color: orange;
+  background-color: #ffa634;
   color: white;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #ff9900;
+  background-color: #e2951d;
 }
 
 
@@ -62,12 +62,6 @@ button:hover {
 .linethrough {
   text-decoration: line-through;
 }
-
-
-
-
-
-
 
 .under-the-sea {
   background-image: url("https://i.ytimg.com/vi/_vpaLmarOEs/maxresdefault.jpg");
