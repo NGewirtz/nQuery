@@ -34,6 +34,8 @@ button, input {
   border-radius: 5px;
   outline: none;
   border: 1px solid #16047a;
+  width: 30%;
+  box-sizing: border-box;
 }
 
 button {
@@ -46,10 +48,7 @@ button:hover {
   background-color: #ff9900;
 }
 
-input {
 
-
-}
 
 .todo-list-container {
   background-image: url("https://pre00.deviantart.net/25c4/th/pre/i/2013/169/f/c/yellow_lined_paper_by_andie200-d69jqez.png");
