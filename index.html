@@ -5,20 +5,31 @@
     <script src="./lib/nQuery.js"></script>
     <title>nQuery</title>
     <link rel="stylesheet" href="./style/style.css">
+    <link rel="icon" href="https://openclipart.org/image/2400px/svg_to_png/17368/jeremybennett-sticky-note-pad-and-pencil.png" type="image/x-icon"/>
   </head>
-  <body>
 
+  <body>
     <div class="todo-list-container">
       <h1>Todo List</h1>
       <ul id="todo-list">
       </ul>
     </div>
 
-    <input type="text" id="new-todo" placeholder="Todo">
-    <button type="button" id="add-button">Add Todo</button>
-    <button type="button" id="empty-button">Remove All Todos</button>
-    <button type="button" id="jacket-button">Do I Need A Jacket?</button>
-    <button type="button" id="background-button">Change Background</button>
+    <div class="todo-form">
+      <input type="text" id="new-todo" placeholder="New Todo">
+      <button type="button" id="add-button">Add Todo</button>
+    </div>
+
+    <div>
+      <input type="text" id="new-header" placeholder="New Header">
+      <button type="button" id="header-button">Update Header</button>
+    </div>
+
+    <div class="buttons">
+      <button type="button" id="empty-button">Remove All Todos</button>
+      <button type="button" id="jacket-button">Do I Need A Jacket?</button>
+      <button type="button" id="background-button">Change Background</button>
+    </div>
   </body>
 
 </html>
