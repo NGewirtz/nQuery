@@ -6,6 +6,8 @@ nQuery is an easy to use vanilla javascript DOM manipulation library. Select ele
 
 ![](https://s3.us-east-2.amazonaws.com/cheers-the-app/nQuery.png)
 
+Interact with my demo todo list using functions exclusively available from the nQuery library. Append, remove, hide, show, or count DOM elements, make AJAX requests and more! Take a deep dive into the public API documentation below, or just have fun with the demo: [Live Demo](http://neilgewirtz.com/nQuery)
+
 # API
 
 ### `html`

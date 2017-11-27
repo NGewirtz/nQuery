@@ -4,6 +4,11 @@ body {
   background-color: #1c1818;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 h1 {
   text-align: center;
   font-family: sans-serif;
@@ -48,7 +53,29 @@ button:hover {
   background-color: #e2951d;
 }
 
+header {
+  text-align: center;
+  color: white;
+  font-size: 36px;
+  padding: 20px;
+  font-family: 'Fjalla One', sans-serif;
+}
 
+footer {
+  text-align: center;
+  color: white;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.fa {
+  color: white;
+  margin: 0 100px;
+  box-sizing: border-box;
+}
+
+.fa:hover, a:hover {
+  color: grey;
+}
 
 .todo-list-container {
   background-image: url("https://pre00.deviantart.net/25c4/th/pre/i/2013/169/f/c/yellow_lined_paper_by_andie200-d69jqez.png");
