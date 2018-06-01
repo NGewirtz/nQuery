@@ -2,11 +2,11 @@
 
 nQuery is an easy to use vanilla javascript DOM manipulation library. Select elements, add event listeners, and even make ajax requests all with one convenient library.
 
-## Todo App Built With nQuery
+## To do App Built With nQuery
 
 ![](https://s3.us-east-2.amazonaws.com/cheers-the-app/nQuery.png)
 
-Interactive todo list using functions exclusively available from the nQuery library. Append, remove, hide, show, and select DOM elements, make AJAX requests and more! Take a deep dive into the public API documentation below, or just have fun with the demo: [Live Demo](http://neilgewirtz.com/nQuery)
+Interactive to do list using functions exclusively available from the nQuery library. Append, remove, hide, show, and select DOM elements, make AJAX requests and more! Take a deep dive into the public API documentation below, or just have fun with the demo: [Live Demo](http://neilgewirtz.com/nQuery)
 
 # API
 
